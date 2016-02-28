@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Controles Personalizados 2</string>
+    <string name="textUser">Usuario:</string>
+    <string name="textPassword">Contraseña:</string>
+    <string name="textLogin">Login</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratorio_62_5</string>
+    <string name="txt_zoom_back">Zoom Back</string>
+    <string name="txt_forward_back">Zoom Forward</string>
+    <string name="txt_fade">Fade</string>
+    <string name="txt_right">Right</string>
+    <string name="txt_left">Left</string>
+    <string name="txt_back">Back</string>
+    <string name="txt_by_default">By default</string>
+</resources>
